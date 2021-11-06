@@ -1,4 +1,4 @@
-import * as PlayerActionCreators from './player'
+import * as PlayerActionCreators from '../actions-creators/player'
 
 
 export default {
